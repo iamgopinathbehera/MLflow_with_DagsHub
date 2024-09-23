@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ASUS/Complete%20Machine%20Learning/MLFlow/mlruns/0/5075ae4e7fcd4c79b19869e1d4c3ad99/artifacts
+end_time: 1727099702465
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5075ae4e7fcd4c79b19869e1d4c3ad99
+run_name: placid-quail-79
+run_uuid: 5075ae4e7fcd4c79b19869e1d4c3ad99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727099698285
+status: 3
+tags: []
+user_id: ASUS
